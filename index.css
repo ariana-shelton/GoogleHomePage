@@ -1,0 +1,201 @@
+body {
+
+    font-family: Roboto, arial, sans-serif;
+
+    overflow:hidden;
+
+}
+
+html {
+
+    font-size: calc(0.4em + 0.4vw)
+
+   
+
+}
+
+header {
+
+    align-content: center;
+
+}
+
+p {
+
+    padding-right: 0.8em;
+
+    padding-left: 1em;
+
+    display: inline-block;
+
+}
+
+.rightHeader {
+
+    float: right;
+
+}
+
+#signIn {
+
+    padding: 10px 24px;
+
+    background-color: #0b57d0;
+
+    border-radius: 20px;
+
+    color: white;
+
+    display: inline-block;
+
+    margin-top: 0.15em;
+
+}
+
+#waffle {
+
+    margin-top: -0.2em;
+
+}
+
+#photo {
+
+    padding-top: 90px;
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+#searchBar {
+
+    padding-top: 6px;
+
+    width: 100%;
+
+    text-align: center;
+
+    align-content: center;
+
+   
+
+}
+
+#bar {
+
+    width: 580px;
+
+    height: 46px;
+
+    border-radius: 30px;
+
+    border: 1px solid lightgray;
+
+    opacity: 75%;
+
+}
+
+#search {
+
+    float: left;
+
+    position: relative;
+
+    margin-top: 11px;
+
+    opacity: 35%;
+
+}
+
+#mic, #camera {
+
+    float: right;
+
+    position: relative;
+
+    margin-top: 11px;
+
+    opacity: 35%;
+
+    padding-left: 9px;
+
+}
+
+.button {
+
+    background-color: #f8f9fa;
+
+    padding: 8px 16px;
+
+}
+
+.buttons {
+
+    display: inline-block;
+
+    padding: 0px 5px;
+
+}
+
+.leftFoot {
+
+    float: left;
+
+    display: inline-block;
+
+}
+
+.rightFoot {
+
+    float: right;
+
+    display: inline-block;
+
+}
+
+footer {
+
+    display: inline;
+
+    width: 100%;
+
+    background-color: #f8f9fa;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    text-align: center;
+
+}
+
+#left {
+
+    padding-left: 20px;
+
+    width: 400px;
+
+    float: left;
+
+}
+
+#right {
+
+    float: right;
+
+    padding-right: 20px;
+
+    width: 400px;
+
+}
+
+#middle {
+
+    text-align: center;
+
+    display: inline-block;
+
+}
+
+ 
